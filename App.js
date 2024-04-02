@@ -7,7 +7,7 @@ import io from 'socket.io-client';
 import  './ind.css';
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCsKqsicalD0odA9nOdA19rcb0z0npM7eE",
+  apiKey: "MyApiKey",
   authDomain: "chatappshantanu.firebaseapp.com",
   databaseURL: "https://chatappshantanu-default-rtdb.firebaseio.com",
   projectId: "chatappshantanu",
